@@ -1,0 +1,1 @@
+Emblog.ApplicationAdapter = DS.FixtureAdapter;
